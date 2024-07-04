@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">An eager computer engineering student from Turkey</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Swift**
 
 - 📫 How to reach me **frknisnc@outlook.com**
 
